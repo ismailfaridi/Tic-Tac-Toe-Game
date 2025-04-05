@@ -1,6 +1,8 @@
 # Tic-Tac-Toe-Game
 A classic Tic Tac Toe game built using HTML, CSS, and JavaScript, featuring an interactive UI and smooth gameplay.
 
+**Live:** https://ismailfaridi.github.io/Tic-Tac-Toe-Game/
+
 ## Features
 - Two-player mode
 - Winning combination detection
